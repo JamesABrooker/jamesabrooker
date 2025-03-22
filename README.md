@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- ⚡ I'm currently studying Software Engineering at Victoria University of Wellington
+My name is James, and I am currently studying Software Engineering at Victoria University of Wellington!
+
 - 🔭 I’m currently working on a Minecraft Mod to improve my java skills
 - 🌱 I’m currently learning C, C++, complex Java algorithms and data structures
 
