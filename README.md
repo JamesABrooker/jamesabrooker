@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Minecraft Mod to improve my java skills
+- 🌱 I’m currently learning C, C++, complex Java algorithms and data structures
+
 <!--
 **JamesABrooker/jamesabrooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
