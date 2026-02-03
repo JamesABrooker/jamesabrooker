@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is James, and I am currently a second year Software Engineering student at Victoria University of Wellington!
+My name is James, and I am currently a third year Software Engineering student at Victoria University of Wellington!
 
 - 🤔 Working on a Budgeting API
   - Working on a full-featured bugetting and management backend using SpringBoot
